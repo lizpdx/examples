@@ -5,35 +5,36 @@
 Combine data from:
 
 * Salesforce Service Cloud support cases for legacy customers
-** related JIRA issues 
+  * related JIRA issues 
 * Paragon support cases for media services customers
-** related TT/SIM-T issues
+  * related TT/SIM-T issues
 
 ### Project Overview ###
 
 * Discovery around available data for media services
-* Obtain relevant data permissions
+* Obtain data access
 * Extract data from AWSDW & Paragon 
 * Discover data structure
 * Load data into the AWS Elemental ecosystem
 * Map requirements to available data fields
-* Join and transform data
+* Transform, join data
 * Analyze
 
-
+### CCR data flow diagram ###
 https://github.com/lizpdx/cashapp/blob/main/flow.png
 
-Create Redshift table for data from S3:
+### Create Redshift table for data from S3 ###
 https://gist.github.com/lizpdx/f928a176faad21c5fc9f0b31c2ebe933
 
-
-HS code to pull data into Redshift from S3:
+### HS code to pull data into Redshift from S3 ###
 https://gist.github.com/lizpdx/38ff0e0025222d83588aee9ba7eadbe0
 
 
-SQL code for ticket metrics:
+## Other Projects ## 
+
+### SQL code for ticket metrics ###
 https://gist.github.com/lizpdx/96d374b3cea61377c3cc1a33caec3ce4
 
 
-Ruby script to create JIRA tickets:
+### Ruby script to create JIRA tickets ###
 https://gist.github.com/lizpdx/40a697a196395454fbcb2ef54aa4ec39
