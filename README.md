@@ -7,14 +7,14 @@ Combine data from:
 * Salesforce Service Cloud support cases for legacy customers
   * related JIRA issues 
 * Paragon support cases for media services customers
-  * related TT/SIM-T issues
+  * related Trouble Ticketing ("TT") issues
 
 ### Project Overview ###
 
 * Discovery around available data for media services
 * Obtain data access
 * Discover data structure
-* Extract data from AWSDW & Paragon 
+* Extract data from AWS DW TT tables & Paragon case table 
 * Load data into the AWS Elemental ecosystem
 * Transform, join data
 * Map requirements to available data fields
