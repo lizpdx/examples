@@ -13,12 +13,12 @@ Combine data from:
 
 * Discovery around available data for media services
 * Obtain data access
-* Extract data from AWSDW & Paragon 
 * Discover data structure
+* Extract data from AWSDW & Paragon 
 * Load data into the AWS Elemental ecosystem
-* Map requirements to available data fields
 * Transform, join data
-* Analyze
+* Map requirements to available data fields
+
 
 ### CCR data flow diagram ###
 https://github.com/lizpdx/cashapp/blob/main/flow.png
