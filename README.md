@@ -1,4 +1,3 @@
-# cashapp
 
 ## Consolidated Cases & Issues Project ##
 
