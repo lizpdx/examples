@@ -15,6 +15,9 @@ Combine data from:
 * Obtain data access
 * Discover data structure
 * Extract data from AWS DW TT tables & Paragon case table 
+  * AWS Support BI team decided to send data to an S3 bucket in the Elemental account
+  * Create Redshift table for data from S3 https://gist.github.com/lizpdx/f928a176faad21c5fc9f0b31c2ebe933
+  * Utilized internal tool "Hammerstone" to pull data into Redshift from S3 https://gist.github.com/lizpdx/38ff0e0025222d83588aee9ba7eadbe0
 * Load data into the AWS Elemental ecosystem
 * Transform, join data
 * Map requirements to available data fields
@@ -23,11 +26,6 @@ Combine data from:
 ### CCR data flow diagram ###
 https://github.com/lizpdx/cashapp/blob/main/flow.png
 
-### Create Redshift table for data from S3 ###
-https://gist.github.com/lizpdx/f928a176faad21c5fc9f0b31c2ebe933
-
-### HS code to pull data into Redshift from S3 ###
-https://gist.github.com/lizpdx/38ff0e0025222d83588aee9ba7eadbe0
 
 ### Tableau Prep flow to combine 4 data sources and publish to Tableau Server ###
 https://github.com/lizpdx/cashapp/blob/main/Prep.png
