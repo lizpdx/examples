@@ -1,6 +1,8 @@
 
 ## Consolidated Cases & Issues Project ##
 
+Business use case: provide leadership with a holistic view of critical open cases and associated issues, in order to be prepared for customer escalation.
+
 Combine data from:
 
 * Salesforce Service Cloud support cases for legacy customers
@@ -35,7 +37,9 @@ https://github.com/lizpdx/cashapp/blob/main/Prep.png
 ## Other Projects ## 
 
 ### SQL code for ticket metrics ###
+Business use case: provide visibility into Elemental Support engineer workload for media services support cases, which are assigned to AWS Support when resolved.
 https://gist.github.com/lizpdx/96d374b3cea61377c3cc1a33caec3ce4
 
 ### Ruby script to create JIRA tickets ###
+Business use case: provide visibility into Hosting Engineer workload across the team, and a consistent customer experience with accurately set expectations.
 https://gist.github.com/lizpdx/40a697a196395454fbcb2ef54aa4ec39
