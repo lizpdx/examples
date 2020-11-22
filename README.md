@@ -1,7 +1,7 @@
 
 ## Consolidated Cases & Issues Project ##
 
-Business use case: provide leadership with a holistic view of critical open cases and associated issues, in order to be prepared for customer escalation.
+Business use case: provide leadership with a holistic view of critical open cases and associated issues across all Elemental products regardless of deployment platform, in order to be prepared for customer escalation.
 
 Combine data from:
 
