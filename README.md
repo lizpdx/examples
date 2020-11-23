@@ -12,8 +12,7 @@ Combine data from:
 
 ### Project Overview ###
 
-* Discovery around available data for media services
-* Obtain data access
+* Discovery around available data for media services, and obtain access
 * Discover data structure
 * Extract data from AWS DW TT tables & Paragon case table 
   * AWS Support BI team decided to send data to an S3 bucket in the Elemental account
