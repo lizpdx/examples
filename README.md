@@ -29,8 +29,7 @@ https://github.com/lizpdx/cashapp/blob/main/flow.png
 
 
 ### Tableau Prep flow to combine 4 data sources and publish to Tableau Server ###
-https://github.com/lizpdx/cashapp/blob/main/Prep.png
-
+https://github.com/lizpdx/examples/blob/main/prep.png
 
 
 ## Other Projects ## 
@@ -40,5 +39,5 @@ Business use case: provide visibility into Elemental Support engineer workload f
 https://gist.github.com/lizpdx/96d374b3cea61377c3cc1a33caec3ce4
 
 ### Ruby script to create JIRA tickets ###
-Business use case: provide visibility into Hosting Engineer workload across the team, and a consistent customer experience with accurately set expectations.
+Business use case: create a consistent customer experience with accurately set expectations, and provide visibility into Hosting Engineer workload across the team.
 https://gist.github.com/lizpdx/40a697a196395454fbcb2ef54aa4ec39
