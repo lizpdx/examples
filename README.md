@@ -21,7 +21,7 @@ Combine data from:
   * TT tables available through subscription via Hoot from AWS "Andes" data lake
 * Load data into the AWS Elemental ecosystem
 * Transform, join data
-* Map requirements to available data fields
+* Surface data via Tableau for dissemination to end users
 
 
 ### CCR data flow diagram ###
