@@ -26,7 +26,7 @@ Combine data from:
 ## Other Projects ## 
 
 ### SQL code for ticket metrics ###
-Business use case: provide visibility into Elemental Support engineer workload for media services support cases, which are assigned to AWS Support when resolved.
+Business use case: provide visibility into Elemental Support engineer workload for media services support tickets, which are assigned to AWS Support when resolved.
 https://gist.github.com/lizpdx/96d374b3cea61377c3cc1a33caec3ce4
 
 ### Ruby script to create JIRA tickets ###
