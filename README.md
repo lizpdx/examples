@@ -19,17 +19,8 @@ Combine data from:
     * Create Redshift table for data from S3 https://gist.github.com/lizpdx/f928a176faad21c5fc9f0b31c2ebe933
     * Utilized internal tool "Hammerstone" to pull data into Redshift from S3 https://gist.github.com/lizpdx/38ff0e0025222d83588aee9ba7eadbe0
   * TT tables available through subscription via Hoot from AWS "Andes" data lake
-* Load data into the AWS Elemental ecosystem
-* Transform, join data
-* Surface data via Tableau for dissemination to end users
-
-
-### CCR data flow diagram ###
-https://github.com/lizpdx/cashapp/blob/main/flow.png
-
-
-### Tableau Prep flow to combine 4 data sources and publish to Tableau Server ###
-https://github.com/lizpdx/examples/blob/main/prep.png
+* Load data into the AWS Elemental ecosystem https://github.com/lizpdx/cashapp/blob/main/flow.png
+* Transform, join data and surface via Tableau for delivery to end users https://github.com/lizpdx/examples/blob/main/prep.png
 
 
 ## Other Projects ## 
