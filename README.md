@@ -19,16 +19,16 @@ Combine data from:
     * I requested dll and used it to create Redshift table for data from S3 https://gist.github.com/lizpdx/f928a176faad21c5fc9f0b31c2ebe933
     * Utilized internal tool "Hammerstone" to pull data into Redshift from S3 https://gist.github.com/lizpdx/38ff0e0025222d83588aee9ba7eadbe0
   * TT tables available through subscription via Hoot from AWS "Andes" data lake
-* Load data into the AWS Elemental ecosystem https://github.com/lizpdx/cashapp/blob/main/flow.png
-* Transform, join data and surface via Tableau for delivery to end users https://github.com/lizpdx/examples/blob/main/prep.png
+* [Load data into the AWS Elemental ecosystem](https://github.com/lizpdx/cashapp/blob/main/flow.png)
+* [Transform, join data and surface via Tableau for delivery to end users](https://github.com/lizpdx/examples/blob/main/prep.png)
 
 
 ## Other Projects ## 
 
 ### SQL code for ticket metrics ###
 Business use case: provide visibility into Elemental Support engineer workload for media services support tickets, which are assigned to AWS Support when resolved.
-https://gist.github.com/lizpdx/96d374b3cea61377c3cc1a33caec3ce4
+[tt.sql](https://gist.github.com/lizpdx/96d374b3cea61377c3cc1a33caec3ce4)
 
 ### Ruby script to create JIRA tickets ###
 Business use case: create a consistent customer experience with accurately set expectations, and provide visibility into Hosting Engineer workload across the team.
-https://gist.github.com/lizpdx/40a697a196395454fbcb2ef54aa4ec39
+[jira.rb](https://gist.github.com/lizpdx/40a697a196395454fbcb2ef54aa4ec39)
