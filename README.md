@@ -15,8 +15,8 @@ Combine data from:
 * Discovery around available data for media services, and obtain access
 * Discover data structure
 * Extract data from AWS DW TT tables & Paragon case table 
-  * AWS Support BI team decided to send data to an S3 bucket in the Elemental account
-    * Create Redshift table for data from S3 https://gist.github.com/lizpdx/f928a176faad21c5fc9f0b31c2ebe933
+  * AWS Support BI team agreed to send data to an S3 bucket in the Elemental account
+    * I requested dll and used it to create Redshift table for data from S3 https://gist.github.com/lizpdx/f928a176faad21c5fc9f0b31c2ebe933
     * Utilized internal tool "Hammerstone" to pull data into Redshift from S3 https://gist.github.com/lizpdx/38ff0e0025222d83588aee9ba7eadbe0
   * TT tables available through subscription via Hoot from AWS "Andes" data lake
 * Load data into the AWS Elemental ecosystem https://github.com/lizpdx/cashapp/blob/main/flow.png
